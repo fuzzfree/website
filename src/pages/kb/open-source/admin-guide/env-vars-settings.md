@@ -5,7 +5,7 @@ title: Environment Variables Settings
 slug: env-vars-settings
 ---
 
-Many aspects of the functionality of Redash can be changes with settings. Settings are read by `redash.settings` from environment variables which (for most installs) can be set in `/opt/redash/current/.env`.
+Many aspects of the functionality of Redash can be changed with settings. Settings are read by `redash.settings` from environment variables which (for most installs) can be set in `/opt/redash/current/.env`.
 
 The follow is a list of settings and what they control:
 
